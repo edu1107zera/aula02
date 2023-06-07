@@ -1,0 +1,7 @@
+c:\Users\eduardo.lfuzato\source\repos\edu02textos\edu02textos\bin\Debug\edu02textos.exe.config
+c:\Users\eduardo.lfuzato\source\repos\edu02textos\edu02textos\bin\Debug\edu02textos.exe
+c:\Users\eduardo.lfuzato\source\repos\edu02textos\edu02textos\bin\Debug\edu02textos.pdb
+c:\Users\eduardo.lfuzato\source\repos\edu02textos\edu02textos\obj\Debug\edu02textos.csproj.AssemblyReference.cache
+c:\Users\eduardo.lfuzato\source\repos\edu02textos\edu02textos\obj\Debug\edu02textos.csproj.CoreCompileInputs.cache
+c:\Users\eduardo.lfuzato\source\repos\edu02textos\edu02textos\obj\Debug\edu02textos.exe
+c:\Users\eduardo.lfuzato\source\repos\edu02textos\edu02textos\obj\Debug\edu02textos.pdb
